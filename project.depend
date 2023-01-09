@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1654547914 source:c:\users\blu-ray\downloads\oop_projects\project\main.cpp
+	<fstream>
+	<ctype.h>
+	<iomanip>
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"Account.h"
+
+1653761662 source:c:\users\blu-ray\downloads\oop_projects\project\account.cpp
+	"Account.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1653753551 c:\users\blu-ray\downloads\oop_projects\project\account.h
+
+1654632435 source:c:\users\blu-ray\downloads\final_project\project\account.cpp
+	"Account.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1654632513 c:\users\blu-ray\downloads\final_project\project\account.h
+
+1654631895 source:c:\users\blu-ray\downloads\final_project\project\main.cpp
+	<fstream>
+	<ctype.h>
+	<iomanip>
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"Account.h"
+
